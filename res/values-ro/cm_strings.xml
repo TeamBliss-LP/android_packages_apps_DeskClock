@@ -53,4 +53,7 @@
   <string name="ringtone_default">Ton de apel implicit</string>
   <string name="take_persistent_grant_uri_permission_failed_msg">Nu s-a reuşit preluarea permisiunii persistente pentru tonul de apel</string>
   <string name="activity_not_found">Activitatea nu a fost găsită!</string>
+  <string name="permlab_write_alarms">schimbă direct alarme</string>
+  <string name="permlab_manage_alarms">comută alarme programate</string>
+  <string name="permlab_read_alarms">accesează alarme programate</string>
 </resources>
